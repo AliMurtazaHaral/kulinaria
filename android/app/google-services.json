@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480324026367",
+    "project_id": "yumnotes-e22eb",
+    "storage_bucket": "yumnotes-e22eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480324026367:android:108e36692c1a60c06fb1ca",
+        "android_client_info": {
+          "package_name": "com.example.yumnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480324026367-f8sj1jd9sdu2k50k12hu8a75ae0hcg7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChkxUGjdCB5NXyfPsqRwueCuE_BgJo6I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480324026367-f8sj1jd9sdu2k50k12hu8a75ae0hcg7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
